@@ -10,13 +10,14 @@
 - Spark
 - Dask: [Dask](https://dask.org/) is an open-source parallel computing framework written natively in Python (initially released 2014). It has a significant following and support largely due to its good integration with the popular Python ML ecosystem triumvirate that is NumPy, Pandas, and Scikit-learn. 
 
+## Table of Contents
+![0-3.png](./images/0-3.png)
+
 ## ML workflow
 ![0-1.png](./images/0-1.png)
 
-
 ## ML stack
 ![0-2.png](./images/0-2.png)
-
 
 ## Reference
 
